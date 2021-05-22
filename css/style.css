@@ -156,6 +156,10 @@ hr {
 	border-radius: 5px;
 }
 
+.images img:hover {
+	opacity: 0.75;
+}
+
 
 /* Media */
 @media (max-width: 1400px) {
